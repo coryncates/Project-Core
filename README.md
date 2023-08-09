@@ -57,9 +57,4 @@ Based on our model's performance and the analytical findings:
 2. **For Governmental Agencies:** Policies related to taxation, welfare, and public services should consider the income disparities observed across different racial and gender groups. This can help in ensuring equitable policies and services for all citizens.
 """
 
-# Saving the updated README content to a file
-updated_readme_file_path = "/mnt/data/Updated_README.md"
-with open(updated_readme_file_path, "w") as file:
-    file.write(updated_readme_content)
 
-updated_readme_file_path
