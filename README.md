@@ -55,6 +55,6 @@ Based on our model's performance and the analytical findings:
 
 1. **For Financial Institutions:** Given the disparities in income distribution across race and gender, financial products and services should be designed with these disparities in mind to cater effectively to all demographic groups.
 2. **For Governmental Agencies:** Policies related to taxation, welfare, and public services should consider the income disparities observed across different racial and gender groups. This can help in ensuring equitable policies and services for all citizens.
-"""
+
 
 
