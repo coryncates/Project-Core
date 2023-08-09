@@ -1,6 +1,4 @@
-# Crafting the updated README content based on the provided structure and details
 
-updated_readme_content = """
 # Adult Income Analysis README
 
 ## Table of Contents
