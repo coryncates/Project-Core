@@ -44,7 +44,7 @@ From the "Income Distribution by Race" plot, it's evident that there are dispari
 The "Income Distribution by Gender" plot highlights a noticeable difference in income distribution between males and females. Males tend to have a higher proportion of individuals earning above $50K compared to females. This observation underscores the importance of addressing gender income disparities in various sectors, from workplaces to policy-making.
 
 ## Metrics for the Best Model
-[Metrics to be provided. For example: Our best model achieved an accuracy of XX%, a precision of YY%, and a recall of ZZ%.]
+Our best model, with a recall macro avg of .77, found our best hyperparameter settings for our logistic regression model would be solver='saga', penalty='elasticnet,' and l1_ratio=0.1. An l1 ratio of .1 means that the model used a combination of l1 and l2 regularization.
 
 ## Model Effectiveness in Solving the Business Problem
 The model's performance metrics indicate that it can reliably predict whether an individual's income exceeds $50K per year. This prediction capability can be instrumental for our stakeholders in making informed decisions and strategies tailored to different income groups.
