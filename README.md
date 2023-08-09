@@ -32,13 +32,13 @@ The Adult Income dataset comprises 48,842 entries, each with 15 attributes. Thes
 ## Analytical Insights
 
 #### 4.1 Income Distribution by Race
-[RaceIncome]([/mnt/data/RaceIncome.png](https://github.com/coryncates/Project-Core/blob/main/RaceIncome.png?raw=true))
+[RaceIncome](/mnt/data/RaceIncome.png](https://github.com/coryncates/Project-Core/blob/main/RaceIncome.png?raw=true))
 
 **Interpretation:**  
 From the "Income Distribution by Race" plot, it's evident that there are disparities in income distribution across different racial groups. Some racial groups have a higher proportion of individuals earning above $50K compared to others. It's crucial for stakeholders to recognize these disparities and ensure that policies and strategies are equitable across all racial groups.
 
 #### 4.2 Income Distribution by Gender
-[IncomeGender]([/mnt/data/IncomeGender.png](https://github.com/coryncates/Project-Core/blob/main/RaceIncome.png?raw=true))
+[IncomeGender](/mnt/data/IncomeGender.png](https://github.com/coryncates/Project-Core/blob/main/RaceIncome.png?raw=true))
 
 **Interpretation:**  
 The "Income Distribution by Gender" plot highlights a noticeable difference in income distribution between males and females. Males tend to have a higher proportion of individuals earning above $50K compared to females. This observation underscores the importance of addressing gender income disparities in various sectors, from workplaces to policy-making.
